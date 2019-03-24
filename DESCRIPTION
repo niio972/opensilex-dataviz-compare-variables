@@ -1,6 +1,6 @@
 Package: compareVariables
 Type: Package
-Title: Compare opensilex variables
+Title: Compare opensilex variables data
 Version: 0.2.1
 Author: Elise Chourrout, Jean-Eudes Hollebecq, Arnaud Charleroy
 Maintainer: Arnaud Charleroy <arnaud.charleroy@inra.fr>
